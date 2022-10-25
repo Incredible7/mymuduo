@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Acceptor.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Acceptor.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Acceptor.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Buffer.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Buffer.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Buffer.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Channel.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Channel.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Channel.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Connector.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Connector.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Connector.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/CurrentThread.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/CurrentThread.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/CurrentThread.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/DefaultPoller.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/DefaultPoller.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/DefaultPoller.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/EPollPoller.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/EPollPoller.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/EPollPoller.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/EventLoop.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/EventLoop.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/EventLoop.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/EventLoopThread.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/EventLoopThread.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/EventLoopThread.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/EventLoopThreadPool.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/EventLoopThreadPool.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/EventLoopThreadPool.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/InetAddress.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/InetAddress.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/InetAddress.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Logger.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Logger.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Logger.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Poller.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Poller.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Poller.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Socket.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Socket.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Socket.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/TcpClient.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/TcpClient.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/TcpClient.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/TcpConnection.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/TcpConnection.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/TcpConnection.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/TcpServer.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/TcpServer.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/TcpServer.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Thread.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Thread.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Thread.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Timer.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Timer.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Timer.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/TimerQueue.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/TimerQueue.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/TimerQueue.cpp"
+},
+{
+  "directory": "/home/seduce/VSCode/VS-C++/_mymuduo_/build",
+  "command": "/usr/bin/g++   -I/home/seduce/VSCode/VS-C++/_mymuduo_/./include   -g -std=c++11 -g   -o CMakeFiles/list.dir/src/Timerstamp.cpp.o -c /home/seduce/VSCode/VS-C++/_mymuduo_/src/Timerstamp.cpp",
+  "file": "/home/seduce/VSCode/VS-C++/_mymuduo_/src/Timerstamp.cpp"
+}
+]
